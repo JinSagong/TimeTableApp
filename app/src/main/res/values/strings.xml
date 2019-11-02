@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">시간표어플</string>
+
+    <string name="bar_timetable">시간표</string>
+    <string name="bar_memo">메모 등록하기</string>
+
+    <string name="add_lecture">강의 추가</string>
+    <string name="memo">메모</string>
+    <string name="add_memo">메모 추가</string>
+    <string name="memo_info">등록된 메모가 없습니다.</string>
+    <string name="type">메모 타입</string>
+    <string name="homework">과제</string>
+    <string name="exam">시험</string>
+    <string name="study">스터디</string>
+    <string name="title">제목</string>
+    <string name="description">설명</string>
+    <string name="prev"><![CDATA[<]]></string>
+    <string name="today">오늘</string>
+    <string name="next"><![CDATA[>]]></string>
+
+    <string name="hint_search">강의 검색</string>
+    <string name="hint_title">제목 입력</string>
+    <string name="hint_description">내용 입력</string>
+
+</resources>

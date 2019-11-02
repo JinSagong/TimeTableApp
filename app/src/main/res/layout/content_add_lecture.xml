@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/default_margin"
+    android:background="@android:drawable/editbox_background_normal"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/search_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/searchbox_margin"
+        android:textColor="@color/THEME"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/search_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/searchbox_margin"
+        android:layout_marginLeft="@dimen/searchbox_margin"
+        android:layout_marginRight="@dimen/searchbox_margin"
+        android:textColor="@color/BLACK"
+        android:textSize="17dp" />
+
+
+    <TextView
+        android:id="@+id/search_code"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/searchbox_margin"
+        android:layout_marginLeft="@dimen/searchbox_margin"
+        android:layout_marginRight="@dimen/searchbox_margin"
+        android:textColor="@color/GRAY"
+        android:textSize="13dp" />
+
+    <TextView
+        android:id="@+id/search_prof"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/searchbox_margin"
+        android:layout_marginLeft="@dimen/searchbox_margin"
+        android:layout_marginRight="@dimen/searchbox_margin"
+        android:textColor="@color/GRAY"
+        android:textSize="13dp" />
+
+    <TextView
+        android:id="@+id/search_loc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/searchbox_margin"
+        android:layout_marginLeft="@dimen/searchbox_margin"
+        android:layout_marginRight="@dimen/searchbox_margin"
+        android:textColor="@color/GRAY"
+        android:textSize="13dp" />
+
+    <TextView
+        android:id="@+id/search_add"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginBottom="@dimen/searchbox_margin"
+        android:layout_marginLeft="@dimen/searchbox_margin"
+        android:layout_marginRight="@dimen/searchbox_margin"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/add_btn"
+        android:gravity="center"
+        android:text="@string/add_lecture"
+        android:textColor="@color/WHITE"
+        android:textSize="15dp" />
+</LinearLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="searchbox_margin">3dp</dimen>
+    <dimen name="font_day">15dp</dimen>
+    <dimen name="font_time">10dp</dimen>
+    <dimen name="height_day">45dp</dimen>
+    <dimen name="width_time">25dp</dimen>
+    <dimen name="line_thick">2dp</dimen>
+    <dimen name="line_thin">1dp</dimen>
+    <dimen name="font_block_title">10dp</dimen>
+    <dimen name="font_block_normal">7dp</dimen>
+</resources>
