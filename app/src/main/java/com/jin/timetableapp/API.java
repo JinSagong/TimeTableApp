@@ -10,9 +10,9 @@ import java.net.URLEncoder;
 import javax.net.ssl.HttpsURLConnection;
 
 class API {
-    final static String TOKEN = "1f354e3b9bdad5567e33773e61b8f85f";
+    final static String TOKEN = "******************************";
     final static String baseURL = "https://k03c8j1o5a.execute-api.ap-northeast-2.amazonaws.com/v1/programmers";
-    final static String KEY = "QJuHAX8evMY24jvpHfHQ4pHGetlk5vn8FJbk70O6";
+    final static String KEY = "******************************";
     final static String CONTENT_TYPE = "application/json";
     static URL apiUrl;
     static HttpsURLConnection apiConn;
